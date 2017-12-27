@@ -1,0 +1,154 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.rometheme.net/muse/fitx" resolutions="1x" timestamp="1475380303140">
+  <folder name="css">
+    <file name="site_global.css" crc="3806871313"/>
+    <file name="master_a-master.css" crc="120910385" ref="single-blog:index:blog"/>
+    <file name="nomq_preview_master_a-master.css" crc="300365174" ref="single-blog:index:blog"/>
+    <file name="single-blog.css" crc="4253060070" ref="single-blog"/>
+    <file name="nomq_single-blog.css" crc="3962651761" ref="single-blog"/>
+    <file name="iefonts_single-blog.css" crc="3824530138" ref="single-blog"/>
+    <file name="index.css" crc="333762777" ref="index"/>
+    <file name="nomq_index.css" crc="3985658915" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="blog.css" crc="455702896" ref="blog"/>
+    <file name="nomq_blog.css" crc="3902941765" ref="blog"/>
+    <file name="iefonts_blog.css" crc="3824530138" ref="blog"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="222444626"/>
+    <file name="fontawesome-webfont.eot" crc="3863299673"/>
+    <file name="fontawesome-webfont.svg" crc="332874908"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:blog:single-blog"/>
+    <file name="museutils.js" crc="3851988764" ref="index:blog:single-blog"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:single-blog"/>
+    <file name="museconfig.js" crc="169177150" ref="index:blog:single-blog"/>
+    <file name="pie.js" crc="3831537696" ref="index:blog:single-blog"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:blog:single-blog"/>
+    <file name="webpro.js" crc="4067903014" ref="index:blog:single-blog"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:blog:single-blog"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:blog:single-blog"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u12006.php" crc="119946459" ref="index"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index:blog:single-blog"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index:blog:single-blog"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:blog:single-blog"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:blog:single-blog"/>
+    <file name="require.js" crc="4108833657" ref="index:blog:single-blog"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3896697543" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:blog:single-blog"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="promo_bg1-u3951-fr.png" crc="227788891" ref="index:blog:single-blog"/>
+    <file name="promo_bg2.jpg" crc="3761684698" ref="index:blog:single-blog"/>
+    <file name="about_img.jpg" crc="3966099409" ref="index"/>
+    <file name="video_bg.jpg" crc="198680557" ref="index"/>
+    <file name="classes_1-u6804-fr.jpg" crc="4101856064" ref="index"/>
+    <file name="classes_2-u6989-fr.jpg" crc="3886820495" ref="index"/>
+    <file name="classes_3-u7092-fr.jpg" crc="318838605" ref="index"/>
+    <file name="classes_4-u7195-fr.jpg" crc="490245688" ref="index"/>
+    <file name="classes_5-u7208-fr.jpg" crc="3989420549" ref="index"/>
+    <file name="classes_6-u7215-fr.jpg" crc="3993921534" ref="index"/>
+    <file name="testimonial_fullbg.jpg" crc="198680557" ref="index"/>
+    <file name="trainer_1-u7879-fr.jpg" crc="3886820495" ref="index"/>
+    <file name="trainer_2-u8421-fr.jpg" crc="318838605" ref="index"/>
+    <file name="trainer_3-u8529-fr.jpg" crc="490245688" ref="index"/>
+    <file name="trainer_4-u8627-fr.jpg" crc="3989420549" ref="index"/>
+    <file name="trainer_5-u8637-fr.jpg" crc="3993921534" ref="index"/>
+    <file name="trainer_6-u8644-fr.jpg" crc="4101856064" ref="index"/>
+    <file name="promo_fullbg.jpg" crc="198680557" ref="index"/>
+    <file name="package_1-u10782-fr.jpg" crc="4030636782" ref="index"/>
+    <file name="package_2-u11368-fr.jpg" crc="4015687309" ref="index"/>
+    <file name="package_3-u11496-fr.jpg" crc="104993862" ref="index"/>
+    <file name="client1.png" crc="161889710" ref="index"/>
+    <file name="client2.png" crc="458757841" ref="index"/>
+    <file name="client3.png" crc="56891826" ref="index"/>
+    <file name="client4.png" crc="4142393467" ref="index"/>
+    <file name="blog_1.jpg" crc="4087284334" ref="index:blog:single-blog"/>
+    <file name="u12026-17.png" crc="395629559" ref="index"/>
+    <file name="u12026-17-r.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-m.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-fs.png" crc="4219030501" ref="index"/>
+    <file name="footer_bg.jpg" crc="198680557" ref="index"/>
+    <file name="classes_1.jpg" crc="240458662" ref="index"/>
+    <file name="classes_2.jpg" crc="243528894" ref="index"/>
+    <file name="classes_3.jpg" crc="368840531" ref="index"/>
+    <file name="classes_4.jpg" crc="267890484" ref="index"/>
+    <file name="classes_5.jpg" crc="4202618463" ref="index"/>
+    <file name="classes_6.jpg" crc="3890174497" ref="index"/>
+    <file name="trainer_1.jpg" crc="243528894" ref="index"/>
+    <file name="trainer_2.jpg" crc="368840531" ref="index"/>
+    <file name="trainer_3.jpg" crc="267890484" ref="index"/>
+    <file name="trainer_4.jpg" crc="4202618463" ref="index"/>
+    <file name="trainer_5.jpg" crc="3890174497" ref="index"/>
+    <file name="trainer_6.jpg" crc="240458662" ref="index"/>
+    <file name="package_1.jpg" crc="166045717" ref="index"/>
+    <file name="package_2.jpg" crc="366739029" ref="index"/>
+    <file name="package_3.jpg" crc="3872233690" ref="index"/>
+    <file name="client1-u11638-fr.png" crc="3900689829" ref="index"/>
+    <file name="client2-u11639-fr.png" crc="4146674918" ref="index"/>
+    <file name="client3-u11640-fr.png" crc="3819558768" ref="index"/>
+    <file name="client4-u11641-fr.png" crc="119075669" ref="index"/>
+    <file name="u12026-172.png" crc="395629559" ref="index"/>
+    <file name="u12026-17-r2.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-m2.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-fs2.png" crc="4219030501" ref="index"/>
+    <file name="icon_menu.gif" crc="3885901089" ref="index"/>
+    <file name="icon_menu_close.gif" crc="4194633723" ref="index"/>
+    <file name="classes_1-u6804-fr2.jpg" crc="4211007347" ref="index"/>
+    <file name="classes_2-u6989-fr2.jpg" crc="4124006433" ref="index"/>
+    <file name="classes_3-u7092-fr2.jpg" crc="288910764" ref="index"/>
+    <file name="classes_4-u7195-fr2.jpg" crc="515627455" ref="index"/>
+    <file name="classes_5-u7208-fr2.jpg" crc="286466532" ref="index"/>
+    <file name="classes_6-u7215-fr2.jpg" crc="4221476707" ref="index"/>
+    <file name="trainer_1-u7879-fr2.jpg" crc="4124006433" ref="index"/>
+    <file name="trainer_2-u8421-fr2.jpg" crc="288910764" ref="index"/>
+    <file name="trainer_3-u8529-fr2.jpg" crc="515627455" ref="index"/>
+    <file name="trainer_4-u8627-fr2.jpg" crc="286466532" ref="index"/>
+    <file name="trainer_5-u8637-fr2.jpg" crc="4221476707" ref="index"/>
+    <file name="trainer_6-u8644-fr2.jpg" crc="4211007347" ref="index"/>
+    <file name="package_1-u10782-fr2.jpg" crc="503717604" ref="index"/>
+    <file name="package_2-u11368-fr2.jpg" crc="36004592" ref="index"/>
+    <file name="package_3-u11496-fr2.jpg" crc="3894648662" ref="index"/>
+    <file name="u12026-173.png" crc="395629559" ref="index"/>
+    <file name="u12026-17-r3.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-m3.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-fs3.png" crc="4219030501" ref="index"/>
+    <file name="u12026-174.png" crc="395629559" ref="index"/>
+    <file name="u12026-17-r4.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-m4.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-fs4.png" crc="4219030501" ref="index"/>
+    <file name="about_img-u5589-fr.jpg" crc="3908108621" ref="index"/>
+    <file name="classes_1-u6804-fr3.jpg" crc="322371659" ref="index"/>
+    <file name="classes_2-u6989-fr3.jpg" crc="511630778" ref="index"/>
+    <file name="classes_3-u7092-fr3.jpg" crc="4166903830" ref="index"/>
+    <file name="classes_4-u7195-fr3.jpg" crc="61157102" ref="index"/>
+    <file name="classes_5-u7208-fr3.jpg" crc="120141400" ref="index"/>
+    <file name="classes_6-u7215-fr3.jpg" crc="507684219" ref="index"/>
+    <file name="trainer_1-u7879-fr3.jpg" crc="511630778" ref="index"/>
+    <file name="trainer_2-u8421-fr3.jpg" crc="4166903830" ref="index"/>
+    <file name="trainer_3-u8529-fr3.jpg" crc="61157102" ref="index"/>
+    <file name="trainer_4-u8627-fr3.jpg" crc="120141400" ref="index"/>
+    <file name="trainer_5-u8637-fr3.jpg" crc="507684219" ref="index"/>
+    <file name="trainer_6-u8644-fr3.jpg" crc="322371659" ref="index"/>
+    <file name="package_1-u10782-fr3.jpg" crc="4184651309" ref="index"/>
+    <file name="package_2-u11368-fr3.jpg" crc="491240910" ref="index"/>
+    <file name="package_3-u11496-fr3.jpg" crc="245754567" ref="index"/>
+    <file name="u12026-175.png" crc="395629559" ref="index"/>
+    <file name="u12026-17-r5.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-m5.png" crc="4227712723" ref="index"/>
+    <file name="u12026-17-fs5.png" crc="4219030501" ref="index"/>
+    <file name="pagetop_bg.jpg" crc="399185599" ref="blog:single-blog"/>
+    <file name="blog_2.jpg" crc="3801189541" ref="blog"/>
+    <file name="blog_3.jpg" crc="209192927" ref="blog"/>
+  </folder>
+  <file name="index.html" crc="4013842050" seo="true" mt="1475380231048" redirect="true"/>
+  <file name="blog.html" crc="3767057138" seo="true" mt="1475380214565" redirect="true"/>
+  <file name="single-blog.html" crc="4031518266" seo="true" mt="1475380214565" redirect="true"/>
+</manifest>
